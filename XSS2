@@ -1,0 +1,2 @@
+<title>XSS 2</title>
+<script>alert(document.cookie)</script>
