@@ -1,2 +1,2 @@
-<title>XSS 2</title>
-<script>alert(document.cookie)</script>
+<title> Login Cenourinha </title>
+print("olá, amigos !")
